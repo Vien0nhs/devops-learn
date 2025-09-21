@@ -1,0 +1,3 @@
+Error: Server down
+Success: Connected
+Error: Timeout

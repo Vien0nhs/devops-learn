@@ -1,0 +1,6 @@
+Học ln ngày 21/09
+yeah
+Học tar ngày 21/09
+Học chgrp, chown ngày 21/09
+Học git init
+Hoc git add .

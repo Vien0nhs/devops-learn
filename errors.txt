@@ -1,0 +1,2 @@
+Error: Server down
+Error: Timeout
