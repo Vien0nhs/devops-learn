@@ -4,3 +4,4 @@ Học tar ngày 21/09
 Học chgrp, chown ngày 21/09
 Học git init
 Hoc git add .
+Hoc git commit ngay 21/09
